@@ -1,6 +1,6 @@
 # plant_app
 
-About Plants
+Plant app design
 
 ## Getting Started
 
