@@ -1,16 +1,16 @@
+
 # plant_app
 
 Plant app design
 
-## Getting Started
+## About
+Start from [here](https://piped.video/watch?v=LN668OAUrK4).
 
-This project is a starting point for a Flutter application.
+## View
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![plant_1](https://github.com/fekri8614/flutter-plant-app/assets/92860582/0d8e8e0f-85e6-4982-9674-279c678530a1)
+![plant_2](https://github.com/fekri8614/flutter-plant-app/assets/92860582/b34c0c01-37cf-4e43-a60d-dd945ac4f4de)
+---
+![plant_3](https://github.com/fekri8614/flutter-plant-app/assets/92860582/b00a6f8e-71ab-4d03-8767-1ffb274226f9)
+![plant_4](https://github.com/fekri8614/flutter-plant-app/assets/92860582/50667a31-c01f-4b51-82df-841c49ae38cd)
